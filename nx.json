@@ -61,5 +61,6 @@
   },
   "defaultProject": "daemon-process-terminated-reprod",
   "useInferencePlugins": false,
-  "defaultBase": "master"
+  "defaultBase": "master",
+  "useLegacyCache": true
 }
